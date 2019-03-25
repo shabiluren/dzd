@@ -1,0 +1,27 @@
+.guarantee{
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #a7cece;
+  padding: 25px;
+  padding-left: 80px;
+  margin: 30px;
+  margin-right: 250px;
+  background-image: url(images/background.gif);
+  line-height: 1.9em;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #444444;
+  background-repeat: no-repeat;
+  background-position: top left;
+  border-radius: 15px;
+  border-top-left-radius: 3em;
+  border-top-right-radius: 3em;
+  border-bottom-left-radius: 3em;
+  border-bottom-right-radius: 3em;
+  border-style: dashed;
+  border-color: white;
+  
+
+
+}

@@ -37,3 +37,10 @@
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
 }
+.cd{
+  font-style: italic;
+  
+}
+.artist{
+  font-weight: bold;
+}

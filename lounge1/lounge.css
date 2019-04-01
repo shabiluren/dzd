@@ -36,6 +36,7 @@
   text-align: center;
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+  float: right;
 }
 .cd{
   font-style: italic;
